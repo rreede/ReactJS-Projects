@@ -1,0 +1,11 @@
+body {
+  font-family: Arial;
+  height: 100%;
+}
+
+.intro {
+  font-size: 3em;
+  background: -webkit-linear-gradient(45deg, #3d7fff, #47c1e9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
